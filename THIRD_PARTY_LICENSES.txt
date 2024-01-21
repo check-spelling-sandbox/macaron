@@ -5324,7 +5324,7 @@ Copyright 2014 The Go Authors.  All rights reserved.
 Copyright 2014 The Go Authors. All rights reserved.
 Copyright 2014 The Kubernetes Authors.
 Copyright 2014 The go-github AUTHORS. All rights reserved.
-Copyright 2014 Unknwon
+Copyright 2014 Unknown
 Copyright 2014 gRPC authors.
 Copyright 2014, Sander van Harmelen
 Copyright 2014-2015 Stripe, Inc.
@@ -5340,7 +5340,7 @@ Copyright 2015 The Kubernetes Authors.
 Copyright 2015 The gRPC Authors
 Copyright 2015 The go-github AUTHORS. All rights reserved.
 Copyright 2015 The oauth2 Authors. All rights reserved.
-Copyright 2015 Unknwon
+Copyright 2015 Unknown
 Copyright 2015 gRPC authors.
 Copyright 2015 go-swagger maintainers
 Copyright 2015-2016 gRPC authors.
@@ -5364,7 +5364,7 @@ Copyright 2016 The OpenTracing Authors
 Copyright 2016 The Snappy-Go Authors. All rights reserved.
 Copyright 2016 The filepathx Authors
 Copyright 2016 The go-github AUTHORS. All rights reserved.
-Copyright 2016 Unknwon
+Copyright 2016 Unknown
 Copyright 2016 Zbigniew Mandziejewicz
 Copyright 2016 gRPC authors.
 Copyright 2016-2017 The New York Times Company
@@ -5383,7 +5383,7 @@ Copyright 2017 The Kubernetes Authors.
 Copyright 2017 The Linux Foundation
 Copyright 2017 The go-github AUTHORS. All rights reserved.
 Copyright 2017 The oauth2 Authors. All rights reserved.
-Copyright 2017 Unknwon
+Copyright 2017 Unknown
 Copyright 2017 gRPC authors.
 Copyright 2017 go-swagger maintainers
 Copyright 2017, The Go Authors. All rights reserved.
@@ -5422,7 +5422,7 @@ Copyright 2019 The Kubernetes Authors.
 Copyright 2019 The go-github AUTHORS. All rights reserved.
 Copyright 2019 The logr Authors.
 Copyright 2019 The original author or authors
-Copyright 2019 Unknwon
+Copyright 2019 Unknown
 Copyright 2019 gRPC authors.
 Copyright 2019+ Klaus Post. All rights reserved.
 Copyright 2019, 2020 OCI Contributors
@@ -9997,11 +9997,11 @@ gopkg.in/ini.v1
 SPDX:Apache-2.0
 
 == Copyright
-Copyright 2014 Unknwon
-Copyright 2015 Unknwon
-Copyright 2016 Unknwon
-Copyright 2017 Unknwon
-Copyright 2019 Unknwon
+Copyright 2014 Unknown
+Copyright 2015 Unknown
+Copyright 2016 Unknown
+Copyright 2017 Unknown
+Copyright 2019 Unknown
 
 --------------------------------- (separator) ----------------------------------
 
@@ -10780,7 +10780,7 @@ Copyright 2014 The Go Authors.  All rights reserved.
 Copyright 2014 The Go Authors. All rights reserved.
 Copyright 2014 The Kubernetes Authors.
 Copyright 2014 The go-github AUTHORS. All rights reserved.
-Copyright 2014 Unknwon
+Copyright 2014 Unknown
 Copyright 2014 gRPC authors.
 Copyright 2014, Sander van Harmelen
 Copyright 2014-2015 Stripe, Inc.
@@ -10796,7 +10796,7 @@ Copyright 2015 The Kubernetes Authors.
 Copyright 2015 The gRPC Authors
 Copyright 2015 The go-github AUTHORS. All rights reserved.
 Copyright 2015 The oauth2 Authors. All rights reserved.
-Copyright 2015 Unknwon
+Copyright 2015 Unknown
 Copyright 2015 gRPC authors.
 Copyright 2015 go-swagger maintainers
 Copyright 2015-2016 gRPC authors.
@@ -10820,7 +10820,7 @@ Copyright 2016 The OpenTracing Authors
 Copyright 2016 The Snappy-Go Authors. All rights reserved.
 Copyright 2016 The filepathx Authors
 Copyright 2016 The go-github AUTHORS. All rights reserved.
-Copyright 2016 Unknwon
+Copyright 2016 Unknown
 Copyright 2016 Zbigniew Mandziejewicz
 Copyright 2016 gRPC authors.
 Copyright 2016-2017 The New York Times Company
@@ -10839,7 +10839,7 @@ Copyright 2017 The Kubernetes Authors.
 Copyright 2017 The Linux Foundation
 Copyright 2017 The go-github AUTHORS. All rights reserved.
 Copyright 2017 The oauth2 Authors. All rights reserved.
-Copyright 2017 Unknwon
+Copyright 2017 Unknown
 Copyright 2017 gRPC authors.
 Copyright 2017 go-swagger maintainers
 Copyright 2017, The Go Authors. All rights reserved.
@@ -10878,7 +10878,7 @@ Copyright 2019 The Kubernetes Authors.
 Copyright 2019 The go-github AUTHORS. All rights reserved.
 Copyright 2019 The logr Authors.
 Copyright 2019 The original author or authors
-Copyright 2019 Unknwon
+Copyright 2019 Unknown
 Copyright 2019 gRPC authors.
 Copyright 2019+ Klaus Post. All rights reserved.
 Copyright 2019, 2020 OCI Contributors
